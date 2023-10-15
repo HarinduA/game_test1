@@ -46,7 +46,7 @@ def play_game():
 
             current_player = 'O' if current_player == 'X' else 'X'
         else:
-            print("Invalid move. That spot is already taken.")
+            print("Invalid move. That spot is already taken.contact harindu")
 
 if __name__ == "__main__":
     play_game()
